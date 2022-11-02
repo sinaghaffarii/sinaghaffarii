@@ -1,12 +1,10 @@
-<p align="center"><a href="https://anuraghazra.github.io"><img width="80%" alt="Hello, I'm Anurag. I do open source!" src="./assets/gh-readme-header.png" /></a></p>
 
-<br />
 
-I'm a FrontEnd developer from Iran 🇮🇳
+I'm a self-taught passionate FrontEnd developer from Iran طهران
 
 **About me**
 
-- 💼 FrontEnd Engineer at [Razorpay](http://razorpay.com](https://www.kahkeshan.ir/)
+- 💼 FrontEnd Engineer at [Razorpay]([http://razorpay.com/](https://www.kahkeshan.ir/))
 
 - 📈 Built github-readme-stats, verlyjs and more, **50m+** hits • **31K** stars on GitHub
 
