@@ -26,7 +26,7 @@
 <br>📄 Check out my [Resume](https://1drv.ms/b/s!AgPbShu6dL-mg2mrhza2Kzvab5KF?e=LhOIUG)<br>
 <br>💻 Know more about me [Portfilio](https://sinaghaffarii.github.io/)<br>
 <br>💻 All of my projects are available at My [Github Repositories](https://github.com/sinaghaffarii?tab=repositories)<br>
-<br>💬 Ask me about HTML, CSS, React, Node.js , Express.js , JavaScript<br>
+<br>💬 Ask me about HTML, CSS, React, Next.js, Typescript, Node.js , Express.js , JavaScript<br>
 <br>📫 How to reach me sinaghafari97@gmail.com<br>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
@@ -34,7 +34,7 @@
 <h2 align="center">📱 Connect with me</h2>
 <br />
 <div align="center">
-  <a target="_blank" href="https://www.linkedin.com/in/mohd-hasan"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a target="_blank" href="https://www.linkedin.com/in/sina-ghaffariii"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a target="_blank" href="mailto: sinaghafari97@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a target="_blank" href="https://github.com/sinaghaffarii"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
 </div>
