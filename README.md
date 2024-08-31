@@ -1,131 +1,119 @@
-<!--
-<h2 align="center">
-  Welcome to Sina Ghaffari World!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-</h2>
--->
+<!----------------------------------- Banner Section ------------------------------------>
 
-<!--
-<p align="center">
-  <a href="https://github.com/sinaghaffarii"><img src="https://readme-typing-svg.herokuapp.com/?lines=Self%20Taught%20Programmer;Front%20End%20Developer;1.5%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
-</p>
+[![MasterHead](https://camo.githubusercontent.com/ba9f3bd30647e352a3f5e1e45eb45c6ec7bad6155cd16aaedf4a426738da0ca5/68747470733a2f2f696e646f616e616c79746963612e636f6d2f7374617469632f696d616765732f62616e6e6572722e676966)](https://sinaghaffarii.github.io)
 
- -->
+<!----------------------------------- Heading Section ------------------------------------>
+<h1 align="center">
+    Hi
+    <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35">
+    I'm Sina Ghaffari
+    <img src="https://camo.githubusercontent.com/d3359cb00ab0b5ed8f2e1fe3fceb4fbaf3b614340f8c0db99c17b9f50b351770/68747470733a2f2f656d6f6a69732e736c61636b6d6f6a69732e636f6d2f656d6f6a69732f696d616765732f313533313834393433302f343234362f626c6f622d73756e676c61737365732e6769663f31353331383439343330" width="35">
+</h1>
 
-<a href="https://komarev.com/ghpvc/?username=sinaghaffarii">
-  <img align="right" src="https://komarev.com/ghpvc/?username=sinaghaffarii&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
-</a>
+<!----------------------------------- About Section ------------------------------------>
+
+<h3 align="center">A Full Stack Web Developer skilled in MERN stack who focuses on writing clean and efficient code.</h3>
 
 
-[![wakatime](https://wakatime.com/badge/user/eebb3dd8-d9b2-40de-9b88-6fd6cac99dbc.svg)](https://wakatime.com/@eebb3dd8-d9b2-40de-9b88-6fd6cac99dbc)
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 
-<!-- Intro  -->
-<h3 align="center">
-        <samp>&gt; Hey There!, I am
-                <b><a target="_blank" href="https://sinaghaffari.vercel.app/">Sina Ghaffari</a></b>
-        </samp>
-</h3>
+<p><img  align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" width="45%" /></p>
 
+# 💫 About Me:
 
-<p align="center"> 
-  <samp>
-    <a href="https://www.google.com/search?q=Sina+Ghaffari">「 Google Me 」</a>
-    <br>
-    「 I am a full stack web application developer from <b>Iran</b> 」
-    <br>
-    <br>
-  </samp>
-</p>
+🔭 I’m currently preparing for placements!.<br>
+<br>🌱 I’m currently learning MERN Stack.<br>
+<br>📄 Check out my [Resume](https://1drv.ms/b/s!AgPbShu6dL-mg2mrhza2Kzvab5KF?e=LhOIUG)<br>
+<br>💻 Know more about me [Portfilio](https://sinaghaffarii.github.io/)<br>
+<br>💻 All of my projects are available at My [Github Repositories](https://github.com/sinaghaffarii?tab=repositories)<br>
+<br>💬 Ask me about HTML, CSS, React, Node.js , Express.js , JavaScript<br>
+<br>📫 How to reach me sinaghafari97@gmail.com<br>
 
-<p align="center">
- <a href="https://sinaghaffari.vercel.app/" target="blank">
-  <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="sinaghaffarii" />
- </a>
- <a href="https://linkedin.com/in/al-siam" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="sinaghaffarii"/>
- </a>
- <!-- <a href="https://dev.to/sinaghaffarii" target="_blank">
-  <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="sinaghaffarii" />
- </a> -->
- <a href="https://twitter.com/_sinaghaffarii" target="_blank">
-  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
- </a>
- <a href="https://instagram.com/_sinaghaffarii" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="sinaghaffarii" />
- </a> 
- <a href="https://facebook.com/sinaghaffarii.dev" target="_blank">
-  <img src="https://img.shields.io/badge/Facebook-20BEFF?&style=for-the-badge&logo=facebook&logoColor=white" alt="sinaghaffarii"  />
-  </a> 
-</p>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
+
+<h2 align="center">📱 Connect with me</h2>
+<br />
+<div align="center">
+  <a target="_blank" href="https://www.linkedin.com/in/mohd-hasan"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a target="_blank" href="mailto: sinaghafari97@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a target="_blank" href="https://github.com/sinaghaffarii"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+</div>
 <br />
 
-<!-- About Section -->
- # About me
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
+
+<img src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg" />
+<br/>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
+
+<h2 align="center">🚀 Languages and Tools:</h2>
+<br/>
+<div align="center">
  
-<p>
- <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
+ <div align="center"><h3 align="center">Frontend</h3>
+<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" align="center" alt="html5">
+<img src = "https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" align="center" alt="css3">
+<img src ="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" align="center" alt="javascript">
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"  align="center" alt="reactjs" />
+<img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white"  align="center" alt="redux" />
+<img src='https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white' align='center' alt='typescript' />
+<img src="https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white"  align="center" alt="material-ui"/>
+<br/>
+<br/>
+  <img src='https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white' align='center' alt='next' />
+  <img src = "https://img.shields.io/badge/chakra ui-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white" align="center" alt="chakra-ui"/>
+  <img src="https://img.shields.io/badge/rest api-%23000000.svg?style=for-the-badge&logo=flask&logoColor=white" align="center" alt="restapi"/>
+  <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white"  align="center" alt="react-router" />
   
- ✌️ &emsp; Enjoy to do programming and sharing knowledge <br/><br/>
- ❤️ &emsp; Love to writing code and learning new features<br/><br/>
- 📧 &emsp; Reach me anytime: sinaghafari.dev@gmail.com<br/><br/>
- 💬 &emsp; Ask me about anything [here](https://github.com/sinaghaffarii/sinaghaffarii/issues)
+</div>
+ <br/>
+  <div align="center"><h3 align="center">Backend</h3> 
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" align="center" alt="nodejs" />
+<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" align="center" alt="expressjs"/>
+<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" align="center" alt="mongodb"/>
+ </div>
+  
+  <div align="center"><h3 align="center">Tools</h3> 
+   <img src="https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white" align="center" alt="git"/>
+   <img src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7" align="center" alt="git"/>
+   <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=whit" align="center" alt="git"/>
+<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"  align="center" alt="github"/>
+<img src ="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" align="center" alt="postman">
+<img src = "https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white" align="center" alt="npm">
+   <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white"  align="center" alt="vscode"/>
+   <br/>
+<br/>
+   <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" align="center" alt="slack"/>
+ </div>
+</div>
 
+<br/>
+<br/>
+  
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=sinaghaffarii&label=Profile%20views&color=0e75b6&style=flat" alt="masum" /> </p>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
+
+<h2 align="center">📊 My Github Stats</h2>
+   <br/>   
+    <p align="center">      
+  <a href="https://github.com/sinaghaffarii/github-readme-stats"><img alt="sinaghaffarii Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sinaghaffarii&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+      </p>      
+     <br/>
+   <p align="center">
+    <a href="https://github.com/sinaghaffarii/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="masum streak" src="https://github-readme-streak-stats.herokuapp.com/?user=sinaghaffarii&hide_border=true&theme=react&hide_border=true&bg_color=0D1117"/>
+    </a>
 </p>
 
-<br/>
-<br/>
-<br/>
-
-## Use To Code
-
-![C#](https://img.shields.io/badge/csharp-F0DB4F?style=for-the-badge&labelColor=black&logo=csharp&logoColor=F0DB4F)
-![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
-![Typescript](https://img.shields.io/badge/Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)
-![React](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)
-![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![SASS Badge](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-092749?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4&labelColor=000000)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
-![React Query](https://img.shields.io/badge/-React_Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white)
-![VSCode](https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&logo=visual%20studio&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-<br/>
-
-<!-- ## Top Open Source -
-[![iTasks](https://github-readme-stats.vercel.app/api/pin/?username=sinaghaffarii&repo=itasks&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/sinaghaffarii/itasks)
-[![urFolio](https://github-readme-stats.vercel.app/api/pin/?username=sinaghaffarii&repo=urfolio&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/sinaghaffarii/urfolio)
-[![Web Projects](https://github-readme-stats.vercel.app/api/pin/?username=sinaghaffarii&repo=web-projects&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/sinaghaffarii/web-projects)
-[![Sina Ghaffari Readme](https://github-readme-stats.vercel.app/api/pin/?username=sinaghaffarii&repo=sinaghaffarii&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/sinaghaffarii/sinaghaffarii)
-
-<p align="left">
-  <a href="https://github.com/sinaghaffarii?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
-</p> -->
-
-<br/>
-<hr/>
-<br/>
-
-<p align="center">
-  <a href="https://github.com/sinaghaffarii">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=sinaghaffarii&theme=radical&border=7F3FBF&background=0D1117" alt="Saif's GitHub streak"/>
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/sinaghaffarii">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sinaghaffarii&theme=radical" alt="Al Siam's GitHub Contribution"/>
-  </a>
-</p>
-
-<a> 
-    <a href="https://github.com/sinaghaffarii"><img alt="Al Siam's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=sinaghaffarii&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
-  <a href="https://github.com/sinaghaffarii"><img alt="Al Siam's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=sinaghaffarii&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
   <br/>
-</a>
+  <br/>
+     <p align="center">                                                                                                 
+    <a href="https://github.com/sinaghaffarii/github-readme-stats"><img alt="masum Github Stats" src="https://github-readme-stats.vercel.app/api?username=sinaghaffarii&show_icons=true&locale=en&theme=react&hide_border=true&bg_color=0D1117" alt="masum" /></a>
+    </p>
 
+<br/>
 
-![Al Siam's Graph](https://github-readme-activity-graph.vercel.app/graph?username=sinaghaffarii&custom_title=Al%20Siam's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
+<br/>
