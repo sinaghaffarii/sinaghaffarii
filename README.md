@@ -37,15 +37,10 @@
 
 ## 📈 GitHub Activity Graph:
 
-<table>
-    <tr>
-        <td align="center"><a href="https://github.com/sinaghaffarii#gh-light-mode-only"><img src="https://github-readme-stats.vercel.app/api?username=sinaghaffarii&show_icons=true&theme=default&include_all_commits=true#gh-light-mode-only" alt="My GitHub Stats"/></a><a href="https://github.com/sinaghaffarii#gh-dark-mode-only"><img src="https://github-readme-stats.vercel.app/api?username=sinaghaffarii&show_icons=true&theme=tokyonight&include_all_commits=true#gh-dark-mode-only" alt="My GitHub Stats"/></a></td>
-        <td rowspan="2" align="center"><a href="https://github.com/sinaghaffarii#gh-light-mode-only"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sinaghaffarii&theme=default&langs_count=8#gh-light-mode-only" alt="My GitHub Stats"/></a><a href="https://github.com/sinaghaffarii#gh-dark-mode-only"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sinaghaffarii&theme=tokyonight&langs_count=8#gh-dark-mode-only" alt="My GitHub Stats"/></a></td>
-    </tr>
-    <tr>
-        <td align="center"><a href="https://github.com/sinaghaffarii#gh-light-mode-only"><img src="https://github-readme-streak-stats.herokuapp.com/?user=sinaghaffarii&theme=default"/></a><a href="https://github.com/sinaghaffarii#gh-dark-mode-only"><img src="https://github-readme-streak-stats.herokuapp.com/?user=sinaghaffarii&theme=tokyonight"/></a></td>
-    </tr>
-    <tr>
-        <td colspan="2" align="center"><a href="https://github.com/sinaghaffarii#gh-light-mode-only"><img src="https://raw.githubusercontent.com/sinaghaffarii/sinaghaffarii/output/github-contribution-grid-snake-default.svg#gh-light-mode-only" alt="My GitHub Stats"/></a><a href="https://github.com/sinaghaffarii#gh-dark-mode-only"><img src="https://raw.githubusercontent.com/sinaghaffarii/sinaghaffarii/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="My GitHub Stats"/></a></td>
-    </tr>
-</table>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sinaghaffarii/sinaghaffarii/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sinaghaffarii/sinaghaffarii/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/sinaghaffarii/sinaghaffarii/output/github-contribution-grid-snake.svg">
+</picture>
+
+_generated with [sinaghaffarii/snk](https://github.com/sinaghaffarii/snk)_
