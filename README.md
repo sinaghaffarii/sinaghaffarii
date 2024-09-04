@@ -30,8 +30,6 @@
 
 ## <img src="https://media.giphy.com/media/M4NykXxUE0HAcK7UJ6/giphy.gif" width="50px" height="50px"></img> Languages and Tools
 
-<h2 align="center">🚀 Languages and Tools:</h2>
-<br/>
 <div align="center">
  
  <div align="center"><h3 align="center">Frontend</h3>
@@ -42,6 +40,12 @@
 <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white"  align="center" alt="redux" />
 <img src='https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white' align='center' alt='typescript' />
 <img src="https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white"  align="center" alt="material-ui"/>
+<img src="https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white"  align="center" alt="React Query"/>
+
+<img src="https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101"  align="center" alt="Socket.io"/>
+<img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white"  align="center" alt="TailwindCSS"/>
+<img src="https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white"  align="center" alt="Threejs"/>
+
 <br/>
 <br/>
   <img src='https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white' align='center' alt='next' />
@@ -65,6 +69,7 @@
 <img src ="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" align="center" alt="postman">
 <img src = "https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white" align="center" alt="npm">
    <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white"  align="center" alt="vscode"/>
+   <img src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white"  align="center" alt="Vite"/>
    <br/>
 <br/>
    <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" align="center" alt="slack"/>
@@ -100,33 +105,13 @@
     </picture>
 </p>
 
-## <img src='https://raw.githubusercontent.com/sinaghaffarii/sinaghaffarii/main/assets/handshake.gif' width="70px" height="40px"> Connect Me Via
-
-<p align="center">
-  <a href="https://sinaghaffarii.github.io/blogs/" target="_blank">
-    <img align="center" alt="sinaghaffarii | blogs" width="24px" src="https://raw.githubusercontent.com/sinaghaffarii/sinaghaffarii/master/assets/vitepress.svg" />
-  </a> &nbsp;&nbsp;
-
-  <a href="https://profile-summary-for-github.herokuapp.com/user/sinaghaffarii" target="_blank">
-    <img align="center" alt="sinaghaffarii | GitHub" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Github-desktop-logo-symbol.svg/1024px-Github-desktop-logo-symbol.svg.png" />
-  </a> &nbsp;&nbsp;
-
-  <a href="https://juejin.cn/user/3280598430653374" target="_blank">
-    <img align="center" alt="sinaghaffarii | juejin" width="24px" src="https://raw.githubusercontent.com/sinaghaffarii/sinaghaffarii/master/assets/juejin.svg" />
-  </a> &nbsp;&nbsp;
-
-  <a href="mailto:guochengli1997@gmail.com" >
-    <img align="center" alt="sinaghaffarii | Gmail" width="26px" src="https://raw.githubusercontent.com/sinaghaffarii/sinaghaffarii/master/assets/gmail.svg" />
-  </a> &nbsp;&nbsp;
-<p>
-
 <div align="center">
   :heart_eyes: Thanks for watching my profile! Have a nice day! :wink: <br/>
-  &copy; 2024 sinaghaffarii
+  &copy; 2024 Sina Ghaffarii
 </div>
 
 ---
 
-Credit: [sinaghaffarii](https://github.com/sinaghaffarii)
+Credit: [Sina Ghaffarii](https://github.com/sinaghaffarii)
 
 Last Edited on 03/01/2024
