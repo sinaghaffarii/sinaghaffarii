@@ -14,11 +14,12 @@
 <tr border="none">
 <td width="50%" align="left">
 
-🔭 I’m currently working as a MERN stack developer in the field of web development.
-🌱 I’m currently enhancing my skills in Three.js for improved data visualization.
-👯 I’m looking to collaborate with Fullstack Web and Frontend Developers, especially those with expertise in React and Node.js.
-🤔 I’m interested in contributing to open-source projects within the JavaScript and web development communities.
-⚙️ I use the following technologies daily: JavaScript, React.js, Redux, TypeScript, Material-UI, React Query, Socket.io, TailwindCSS, Next.js, Chakra-UI, REST API, React Router, Node.js, Express.js, and MongoDB.
+🔭 I’m currently working as a MERN stack developer in the field of web development.\n
+🌱 I’m currently enhancing my skills in Three.js for improved data visualization.\n
+👯 I’m looking to collaborate with Fullstack Web and Frontend Developers, especially those with expertise in React and Node.js.\n
+🤔 I’m interested in contributing to open-source projects within the JavaScript and web development communities.\n
+⚙️ I use the following technologies daily: JavaScript, React.js, Redux, TypeScript, Material-UI, React Query, Socket.io, TailwindCSS, Next.js, Chakra-UI, REST API, React Router, Node.js, Express.js, and MongoDB.\n
+
 - 💬 Ping me about **React**, **Next**, **Typescript**, **Node**, **Express**, **MongoDB**
 
 </td>
@@ -26,7 +27,7 @@
   <img align="center" alt="Coding" width="450" src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e">
 </td>
 </tr>
-</table>
+</table>  
 
 ## <img src="https://media.giphy.com/media/M4NykXxUE0HAcK7UJ6/giphy.gif" width="50px" height="50px"></img> Languages and Tools
 
