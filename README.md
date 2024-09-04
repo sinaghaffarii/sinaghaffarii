@@ -14,11 +14,15 @@
 <tr border="none">
 <td width="50%" align="left">
 
-🔭 I’m currently working as a MERN stack developer in the field of web development.\n
-🌱 I’m currently enhancing my skills in Three.js for improved data visualization.\n
-👯 I’m looking to collaborate with Fullstack Web and Frontend Developers, especially those with expertise in React and Node.js.\n
-🤔 I’m interested in contributing to open-source projects within the JavaScript and web development communities.\n
-⚙️ I use the following technologies daily: JavaScript, React.js, Redux, TypeScript, Material-UI, React Query, Socket.io, TailwindCSS, Next.js, Chakra-UI, REST API, React Router, Node.js, Express.js, and MongoDB.\n
+🔭 I’m currently working as a MERN stack developer in the field of web development.
+
+🌱 I’m currently enhancing my skills in Three.js for improved data visualization.
+
+👯 I’m looking to collaborate with Fullstack Web and Frontend Developers, especially those with expertise in React and Node.js.
+
+🤔 I’m interested in contributing to open-source projects within the JavaScript and web development communities.
+
+⚙️ I use the following technologies daily: JavaScript, React.js, Redux, TypeScript, Material-UI, React Query, Socket.io, TailwindCSS, Next.js, Chakra-UI, REST API, React Router, Node.js, Express.js, and MongoDB.
 
 - 💬 Ping me about **React**, **Next**, **Typescript**, **Node**, **Express**, **MongoDB**
 
