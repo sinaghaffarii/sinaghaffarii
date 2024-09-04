@@ -24,7 +24,7 @@
 
 ⚙️ I use the following technologies daily: JavaScript, React.js, Redux, TypeScript, Material-UI, React Query, Socket.io, TailwindCSS, Next.js, Chakra-UI, REST API, React Router, Node.js, Express.js, and MongoDB.
 
-- 💬 Ping me about **React**, **Next**, **Typescript**, **Node**, **Express**, **MongoDB**
+💬 Ping me about **React**, **Next**, **Typescript**, **Node**, **Express**, **MongoDB**
 
 </td>
 <td width="50%" align="center">
