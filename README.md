@@ -4,10 +4,6 @@
 
 <br>
 
-<div align="center">
-    <img src="https://raw.githubusercontent.com/sinaghaffarii/sinaghaffarii/master/assets/fly.webp" height="120px" />
-</div>
-
 ## <img src="https://raw.githubusercontent.com/sinaghaffarii/sinaghaffarii/main/assets/wave.gif" width="50px" height="50px"></img> About Me
 
 <table align="center">
