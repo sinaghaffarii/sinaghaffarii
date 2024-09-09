@@ -76,10 +76,9 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,css,discord,docker,express,figma,firebase,redis,github,html,js,linux,materialui,nginx,mongodb,mysql,nextjs,nodejs,postman,react,redux,tailwind,ts,vscode&perline=14" />
+    <img src="https://skillicons.dev/icons?i=cs,dotnet,js,react,nextjs,redux,tailwind,bootstrap,ts,git,gitlab,html,,css,docker,express,figma,firebase,redis,github,linux,materialui,mysql,graphql,postman,azure,visualstudio,vscode,azure,babel,discord,gmail&perline=14" />
   </a>
 </p>
-
 
 
 <!-- Connect with me -->
